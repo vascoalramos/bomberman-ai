@@ -3,6 +3,12 @@ Bomberman clone for AI teaching
 
 ![Demo](https://github.com/dgomes/iia-ia-bomberman/raw/master/data/DemoBomberman.gif)
 
+
+## Description
+
+This project is a product of the practical assignement of one of our classes: [Artifical Intelligence](https://www.ua.pt/en/uc/12287) and the main idea behind it is to implement an ai agent (using a* search algorithm) to win the bomberman game.
+
+
 ## How to install
 
 Make sure you are running Python 3.5.
