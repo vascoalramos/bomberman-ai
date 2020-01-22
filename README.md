@@ -42,3 +42,11 @@ python -m pygame.examples.aliens
 - OSX 10.14.6
 - Windows 10.0.18362
 
+## Authors
+
+* **Vasco Ramos:** [vascoalramos](https://github.com/vascoalramos)
+* **Diogo Silva:** [HerouFenix](https://github.com/HerouFenix)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
